@@ -1,0 +1,229 @@
+[
+  {"id":1001,"customer_id":1,"date":"2025-04-10","total":2499,"items":[{"name":"Nike Air Zoom Pegasus","category":"Running Shoes","qty":1,"price":2499}]},
+  {"id":1002,"customer_id":1,"date":"2025-06-15","total":3599,"items":[{"name":"Adidas Ultraboost","category":"Running Shoes","qty":1,"price":3599}]},
+  {"id":1003,"customer_id":1,"date":"2025-08-20","total":1899,"items":[{"name":"Running Shorts","category":"Sports Apparel","qty":2,"price":949}]},
+  {"id":1004,"customer_id":1,"date":"2025-10-05","total":4299,"items":[{"name":"Garmin Forerunner 265","category":"Sports Electronics","qty":1,"price":4299}]},
+  {"id":1005,"customer_id":1,"date":"2026-01-12","total":2199,"items":[{"name":"Brooks Ghost 16","category":"Running Shoes","qty":1,"price":2199}]},
+  {"id":1006,"customer_id":1,"date":"2026-03-01","total":1599,"items":[{"name":"Compression Tights","category":"Sports Apparel","qty":1,"price":1599}]},
+
+  {"id":1007,"customer_id":2,"date":"2025-02-14","total":8999,"items":[{"name":"La Mer Moisturizer","category":"Luxury Skincare","qty":1,"price":8999}]},
+  {"id":1008,"customer_id":2,"date":"2025-05-20","total":12499,"items":[{"name":"SK-II Essence Set","category":"Luxury Skincare","qty":1,"price":12499}]},
+  {"id":1009,"customer_id":2,"date":"2025-08-10","total":6599,"items":[{"name":"Chanel No.5 Perfume","category":"Luxury Fragrance","qty":1,"price":6599}]},
+  {"id":1010,"customer_id":2,"date":"2025-11-25","total":15999,"items":[{"name":"Dyson Airwrap","category":"Beauty Electronics","qty":1,"price":15999}]},
+  {"id":1011,"customer_id":2,"date":"2026-02-14","total":9499,"items":[{"name":"Estée Lauder ANR Set","category":"Luxury Skincare","qty":1,"price":9499}]},
+
+  {"id":1012,"customer_id":3,"date":"2025-07-01","total":1299,"items":[{"name":"Sony WH-1000XM5","category":"Electronics","qty":1,"price":1299}]},
+  {"id":1013,"customer_id":3,"date":"2025-09-15","total":599,"items":[{"name":"Phone Case","category":"Accessories","qty":1,"price":599}]},
+
+  {"id":1014,"customer_id":4,"date":"2025-03-08","total":3499,"items":[{"name":"Yoga Mat Premium","category":"Fitness","qty":1,"price":1499},{"name":"Yoga Block Set","category":"Fitness","qty":1,"price":999},{"name":"Resistance Bands","category":"Fitness","qty":1,"price":1001}]},
+  {"id":1015,"customer_id":4,"date":"2025-05-15","total":2299,"items":[{"name":"Lululemon Leggings","category":"Sports Apparel","qty":1,"price":2299}]},
+  {"id":1016,"customer_id":4,"date":"2025-07-22","total":1899,"items":[{"name":"Sports Bra Set","category":"Sports Apparel","qty":2,"price":949}]},
+  {"id":1017,"customer_id":4,"date":"2025-10-10","total":4599,"items":[{"name":"Apple Watch SE","category":"Sports Electronics","qty":1,"price":4599}]},
+  {"id":1018,"customer_id":4,"date":"2026-01-05","total":1699,"items":[{"name":"Foam Roller","category":"Fitness","qty":1,"price":699},{"name":"Yoga Strap","category":"Fitness","qty":1,"price":1000}]},
+  {"id":1019,"customer_id":4,"date":"2026-03-15","total":2899,"items":[{"name":"Nike Metcon","category":"Running Shoes","qty":1,"price":2899}]},
+
+  {"id":1020,"customer_id":5,"date":"2024-12-05","total":45999,"items":[{"name":"Gaming PC Setup","category":"Gaming","qty":1,"price":45999}]},
+  {"id":1021,"customer_id":5,"date":"2025-02-20","total":5999,"items":[{"name":"Razer Huntsman V3","category":"Gaming","qty":1,"price":3499},{"name":"Razer Viper V3","category":"Gaming","qty":1,"price":2500}]},
+  {"id":1022,"customer_id":5,"date":"2025-05-10","total":12999,"items":[{"name":"LG UltraGear Monitor 27\"","category":"Gaming","qty":1,"price":12999}]},
+  {"id":1023,"customer_id":5,"date":"2025-08-01","total":4299,"items":[{"name":"SteelSeries Headset","category":"Gaming","qty":1,"price":4299}]},
+  {"id":1024,"customer_id":5,"date":"2025-11-15","total":3499,"items":[{"name":"Secretlab Titan Chair","category":"Gaming","qty":1,"price":3499}]},
+  {"id":1025,"customer_id":5,"date":"2026-01-28","total":7999,"items":[{"name":"PS5 Pro","category":"Gaming","qty":1,"price":7999}]},
+  {"id":1026,"customer_id":5,"date":"2026-03-10","total":2499,"items":[{"name":"Gaming Mouse Pad XL","category":"Gaming","qty":1,"price":999},{"name":"Webcam 4K","category":"Electronics","qty":1,"price":1500}]},
+
+  {"id":1027,"customer_id":6,"date":"2025-04-20","total":2999,"items":[{"name":"KitchenAid Mixer","category":"Home & Kitchen","qty":1,"price":2999}]},
+  {"id":1028,"customer_id":6,"date":"2025-07-15","total":1599,"items":[{"name":"Air Fryer","category":"Home & Kitchen","qty":1,"price":1599}]},
+  {"id":1029,"customer_id":6,"date":"2025-10-30","total":4299,"items":[{"name":"Instant Pot Pro","category":"Home & Kitchen","qty":1,"price":2399},{"name":"Cast Iron Dutch Oven","category":"Home & Kitchen","qty":1,"price":1900}]},
+
+  {"id":1030,"customer_id":7,"date":"2025-01-10","total":8999,"items":[{"name":"Samsung Galaxy S25","category":"Electronics","qty":1,"price":8999}]},
+  {"id":1031,"customer_id":7,"date":"2025-04-05","total":3499,"items":[{"name":"Galaxy Buds Pro","category":"Electronics","qty":1,"price":1999},{"name":"Phone Case Premium","category":"Accessories","qty":1,"price":1500}]},
+  {"id":1032,"customer_id":7,"date":"2025-06-20","total":15999,"items":[{"name":"Samsung Tab S10 Ultra","category":"Electronics","qty":1,"price":15999}]},
+  {"id":1033,"customer_id":7,"date":"2025-09-01","total":1299,"items":[{"name":"Wireless Charger Duo","category":"Electronics","qty":1,"price":1299}]},
+  {"id":1034,"customer_id":7,"date":"2026-02-10","total":6999,"items":[{"name":"Galaxy Watch Ultra","category":"Electronics","qty":1,"price":6999}]},
+
+  {"id":1035,"customer_id":8,"date":"2025-06-01","total":1899,"items":[{"name":"Summer Dress","category":"Fashion","qty":2,"price":949}]},
+  {"id":1036,"customer_id":8,"date":"2025-08-15","total":3299,"items":[{"name":"Designer Handbag","category":"Fashion","qty":1,"price":3299}]},
+  {"id":1037,"customer_id":8,"date":"2025-11-05","total":4599,"items":[{"name":"Winter Coat","category":"Fashion","qty":1,"price":4599}]},
+
+  {"id":1038,"customer_id":9,"date":"2025-01-20","total":25999,"items":[{"name":"MacBook Air M4","category":"Electronics","qty":1,"price":25999}]},
+  {"id":1039,"customer_id":9,"date":"2025-04-15","total":3499,"items":[{"name":"AirPods Pro","category":"Electronics","qty":1,"price":3499}]},
+  {"id":1040,"customer_id":9,"date":"2025-07-10","total":2599,"items":[{"name":"Magic Keyboard","category":"Electronics","qty":1,"price":1599},{"name":"Magic Trackpad","category":"Electronics","qty":1,"price":1000}]},
+  {"id":1041,"customer_id":9,"date":"2025-10-20","total":12999,"items":[{"name":"iPad Pro M4","category":"Electronics","qty":1,"price":12999}]},
+  {"id":1042,"customer_id":9,"date":"2026-01-30","total":1999,"items":[{"name":"Apple Pencil Pro","category":"Electronics","qty":1,"price":1999}]},
+  {"id":1043,"customer_id":9,"date":"2026-03-20","total":4499,"items":[{"name":"AirPods Max","category":"Electronics","qty":1,"price":4499}]},
+
+  {"id":1044,"customer_id":10,"date":"2025-08-01","total":899,"items":[{"name":"Notebook Set","category":"Stationery","qty":3,"price":299}]},
+
+  {"id":1045,"customer_id":11,"date":"2024-09-01","total":5999,"items":[{"name":"Running Shoes Pro","category":"Running Shoes","qty":1,"price":5999}]},
+  {"id":1046,"customer_id":11,"date":"2024-12-10","total":3299,"items":[{"name":"Track Jacket","category":"Sports Apparel","qty":1,"price":3299}]},
+  {"id":1047,"customer_id":11,"date":"2025-03-05","total":2499,"items":[{"name":"Running Watch","category":"Sports Electronics","qty":1,"price":2499}]},
+  {"id":1048,"customer_id":11,"date":"2025-05-15","total":1899,"items":[{"name":"Training Shorts","category":"Sports Apparel","qty":2,"price":949}]},
+
+  {"id":1049,"customer_id":12,"date":"2025-02-10","total":4599,"items":[{"name":"Nikon Z50 Camera","category":"Electronics","qty":1,"price":4599}]},
+  {"id":1050,"customer_id":12,"date":"2025-05-25","total":1999,"items":[{"name":"Camera Lens 50mm","category":"Electronics","qty":1,"price":1999}]},
+  {"id":1051,"customer_id":12,"date":"2025-09-08","total":2999,"items":[{"name":"Tripod Pro","category":"Electronics","qty":1,"price":1499},{"name":"Camera Bag","category":"Accessories","qty":1,"price":1500}]},
+  {"id":1052,"customer_id":12,"date":"2026-01-15","total":3499,"items":[{"name":"Memory Card 256GB","category":"Electronics","qty":2,"price":1749}]},
+
+  {"id":1053,"customer_id":13,"date":"2025-04-01","total":1299,"items":[{"name":"Bluetooth Speaker","category":"Electronics","qty":1,"price":1299}]},
+  {"id":1054,"customer_id":13,"date":"2025-07-20","total":2999,"items":[{"name":"Noise Cancelling Headphones","category":"Electronics","qty":1,"price":2999}]},
+
+  {"id":1055,"customer_id":14,"date":"2024-11-01","total":6999,"items":[{"name":"Treadmill Home","category":"Fitness","qty":1,"price":6999}]},
+  {"id":1056,"customer_id":14,"date":"2025-02-15","total":3299,"items":[{"name":"Dumbell Set","category":"Fitness","qty":1,"price":3299}]},
+  {"id":1057,"customer_id":14,"date":"2025-05-10","total":1499,"items":[{"name":"Resistance Band Set","category":"Fitness","qty":1,"price":1499}]},
+  {"id":1058,"customer_id":14,"date":"2025-08-25","total":2999,"items":[{"name":"Kettlebell Set","category":"Fitness","qty":1,"price":2999}]},
+  {"id":1059,"customer_id":14,"date":"2025-12-01","total":8999,"items":[{"name":"Peloton Bike","category":"Fitness","qty":1,"price":8999}]},
+  {"id":1060,"customer_id":14,"date":"2026-03-05","total":1899,"items":[{"name":"Workout Gloves","category":"Fitness","qty":1,"price":999},{"name":"Jump Rope Pro","category":"Fitness","qty":1,"price":900}]},
+
+  {"id":1061,"customer_id":15,"date":"2025-09-01","total":799,"items":[{"name":"Water Bottle","category":"Accessories","qty":1,"price":799}]},
+
+  {"id":1062,"customer_id":16,"date":"2025-03-15","total":2499,"items":[{"name":"Cookware Set","category":"Home & Kitchen","qty":1,"price":2499}]},
+  {"id":1063,"customer_id":16,"date":"2025-06-28","total":1899,"items":[{"name":"Coffee Machine","category":"Home & Kitchen","qty":1,"price":1899}]},
+  {"id":1064,"customer_id":16,"date":"2025-10-15","total":3299,"items":[{"name":"Vitamix Blender","category":"Home & Kitchen","qty":1,"price":3299}]},
+  {"id":1065,"customer_id":16,"date":"2026-02-01","total":1599,"items":[{"name":"Knife Set","category":"Home & Kitchen","qty":1,"price":1599}]},
+
+  {"id":1066,"customer_id":17,"date":"2024-08-10","total":12999,"items":[{"name":"Canon EOS R6","category":"Electronics","qty":1,"price":12999}]},
+  {"id":1067,"customer_id":17,"date":"2024-11-20","total":5999,"items":[{"name":"Lens Kit","category":"Electronics","qty":1,"price":5999}]},
+  {"id":1068,"customer_id":17,"date":"2025-02-28","total":2499,"items":[{"name":"Flash Unit","category":"Electronics","qty":1,"price":2499}]},
+  {"id":1069,"customer_id":17,"date":"2025-06-15","total":3999,"items":[{"name":"Photo Printer","category":"Electronics","qty":1,"price":3999}]},
+  {"id":1070,"customer_id":17,"date":"2025-09-30","total":1999,"items":[{"name":"SD Card Pro","category":"Electronics","qty":2,"price":999}]},
+  {"id":1071,"customer_id":17,"date":"2026-01-10","total":8999,"items":[{"name":"Canon RF 70-200mm","category":"Electronics","qty":1,"price":8999}]},
+  {"id":1072,"customer_id":17,"date":"2026-03-25","total":1499,"items":[{"name":"Camera Strap Premium","category":"Accessories","qty":1,"price":1499}]},
+
+  {"id":1073,"customer_id":18,"date":"2025-07-10","total":3999,"items":[{"name":"Levi's Denim Collection","category":"Fashion","qty":3,"price":1333}]},
+  {"id":1074,"customer_id":18,"date":"2025-10-20","total":2599,"items":[{"name":"Chelsea Boots","category":"Fashion","qty":1,"price":2599}]},
+
+  {"id":1075,"customer_id":19,"date":"2025-05-01","total":1999,"items":[{"name":"Backpack Travel","category":"Accessories","qty":1,"price":1999}]},
+  {"id":1076,"customer_id":19,"date":"2025-08-18","total":4599,"items":[{"name":"Luggage Set","category":"Travel","qty":1,"price":4599}]},
+  {"id":1077,"customer_id":19,"date":"2025-12-15","total":2299,"items":[{"name":"Travel Adapter Kit","category":"Travel","qty":1,"price":999},{"name":"Neck Pillow","category":"Travel","qty":1,"price":1300}]},
+
+  {"id":1078,"customer_id":20,"date":"2024-12-01","total":7999,"items":[{"name":"Dyson V15 Vacuum","category":"Home & Kitchen","qty":1,"price":7999}]},
+  {"id":1079,"customer_id":20,"date":"2025-03-20","total":3499,"items":[{"name":"Robot Vacuum","category":"Home & Kitchen","qty":1,"price":3499}]},
+  {"id":1080,"customer_id":20,"date":"2025-06-10","total":2999,"items":[{"name":"Air Purifier","category":"Home & Kitchen","qty":1,"price":2999}]},
+  {"id":1081,"customer_id":20,"date":"2025-09-28","total":5999,"items":[{"name":"Smart Home Hub Set","category":"Home & Kitchen","qty":1,"price":5999}]},
+  {"id":1082,"customer_id":20,"date":"2026-01-18","total":1899,"items":[{"name":"Smart Bulb Set","category":"Home & Kitchen","qty":1,"price":1899}]},
+
+  {"id":1083,"customer_id":21,"date":"2025-02-15","total":3999,"items":[{"name":"Mechanical Keyboard","category":"Gaming","qty":1,"price":3999}]},
+  {"id":1084,"customer_id":21,"date":"2025-05-30","total":7999,"items":[{"name":"RTX 4070 GPU","category":"Gaming","qty":1,"price":7999}]},
+  {"id":1085,"customer_id":21,"date":"2025-09-10","total":2499,"items":[{"name":"Gaming Headset","category":"Gaming","qty":1,"price":2499}]},
+  {"id":1086,"customer_id":21,"date":"2026-01-05","total":4999,"items":[{"name":"VR Headset","category":"Gaming","qty":1,"price":4999}]},
+  {"id":1087,"customer_id":21,"date":"2026-03-18","total":1999,"items":[{"name":"Streaming Deck","category":"Gaming","qty":1,"price":1999}]},
+
+  {"id":1088,"customer_id":22,"date":"2025-06-05","total":2499,"items":[{"name":"Skincare Set","category":"Beauty","qty":1,"price":2499}]},
+  {"id":1089,"customer_id":22,"date":"2025-09-20","total":3999,"items":[{"name":"Hair Care Kit","category":"Beauty","qty":1,"price":3999}]},
+  {"id":1090,"customer_id":22,"date":"2026-01-25","total":1899,"items":[{"name":"Makeup Palette","category":"Beauty","qty":1,"price":1899}]},
+
+  {"id":1091,"customer_id":23,"date":"2024-10-05","total":5999,"items":[{"name":"Office Chair","category":"Furniture","qty":1,"price":5999}]},
+  {"id":1092,"customer_id":23,"date":"2025-01-15","total":8999,"items":[{"name":"Standing Desk","category":"Furniture","qty":1,"price":8999}]},
+  {"id":1093,"customer_id":23,"date":"2025-04-25","total":2499,"items":[{"name":"Monitor Arm","category":"Furniture","qty":1,"price":2499}]},
+  {"id":1094,"customer_id":23,"date":"2025-08-08","total":1899,"items":[{"name":"Desk Organizer Set","category":"Furniture","qty":1,"price":1899}]},
+
+  {"id":1095,"customer_id":24,"date":"2025-07-20","total":1599,"items":[{"name":"Wireless Earbuds","category":"Electronics","qty":1,"price":1599}]},
+
+  {"id":1096,"customer_id":25,"date":"2025-04-01","total":3299,"items":[{"name":"Smart Watch","category":"Electronics","qty":1,"price":3299}]},
+  {"id":1097,"customer_id":25,"date":"2025-07-15","total":1999,"items":[{"name":"Fitness Tracker","category":"Electronics","qty":1,"price":1999}]},
+  {"id":1098,"customer_id":25,"date":"2025-11-10","total":4599,"items":[{"name":"Tablet","category":"Electronics","qty":1,"price":4599}]},
+
+  {"id":1099,"customer_id":26,"date":"2025-01-05","total":2999,"items":[{"name":"Winter Boots","category":"Fashion","qty":1,"price":2999}]},
+  {"id":1100,"customer_id":26,"date":"2025-04-12","total":1899,"items":[{"name":"Sunglasses Premium","category":"Fashion","qty":1,"price":1899}]},
+  {"id":1101,"customer_id":26,"date":"2025-07-28","total":4599,"items":[{"name":"Watch Luxury","category":"Fashion","qty":1,"price":4599}]},
+  {"id":1102,"customer_id":26,"date":"2025-11-15","total":3299,"items":[{"name":"Leather Wallet","category":"Fashion","qty":1,"price":1999},{"name":"Belt Premium","category":"Fashion","qty":1,"price":1300}]},
+  {"id":1103,"customer_id":26,"date":"2026-02-25","total":5999,"items":[{"name":"Briefcase Italian","category":"Fashion","qty":1,"price":5999}]},
+
+  {"id":1104,"customer_id":27,"date":"2025-09-05","total":999,"items":[{"name":"USB-C Hub","category":"Electronics","qty":1,"price":999}]},
+
+  {"id":1105,"customer_id":28,"date":"2025-03-01","total":2999,"items":[{"name":"Espresso Machine","category":"Home & Kitchen","qty":1,"price":2999}]},
+  {"id":1106,"customer_id":28,"date":"2025-06-15","total":1499,"items":[{"name":"Coffee Grinder","category":"Home & Kitchen","qty":1,"price":1499}]},
+  {"id":1107,"customer_id":28,"date":"2025-10-01","total":3999,"items":[{"name":"Sous Vide Set","category":"Home & Kitchen","qty":1,"price":3999}]},
+  {"id":1108,"customer_id":28,"date":"2026-02-10","total":2499,"items":[{"name":"Bread Maker","category":"Home & Kitchen","qty":1,"price":2499}]},
+
+  {"id":1109,"customer_id":29,"date":"2024-11-15","total":15999,"items":[{"name":"75\" 4K TV","category":"Electronics","qty":1,"price":15999}]},
+  {"id":1110,"customer_id":29,"date":"2025-02-25","total":5999,"items":[{"name":"Soundbar Dolby","category":"Electronics","qty":1,"price":5999}]},
+  {"id":1111,"customer_id":29,"date":"2025-06-05","total":3999,"items":[{"name":"Streaming Box","category":"Electronics","qty":1,"price":3999}]},
+
+  {"id":1112,"customer_id":30,"date":"2025-07-01","total":1899,"items":[{"name":"Yoga Set","category":"Fitness","qty":1,"price":1899}]},
+  {"id":1113,"customer_id":30,"date":"2025-10-18","total":2499,"items":[{"name":"Meditation Cushion","category":"Fitness","qty":1,"price":799},{"name":"Essential Oil Set","category":"Wellness","qty":1,"price":1700}]},
+
+  {"id":1114,"customer_id":31,"date":"2024-09-15","total":6999,"items":[{"name":"Drone DJI Mini","category":"Electronics","qty":1,"price":6999}]},
+  {"id":1115,"customer_id":31,"date":"2025-01-20","total":2999,"items":[{"name":"Drone Batteries","category":"Electronics","qty":3,"price":999}]},
+  {"id":1116,"customer_id":31,"date":"2025-05-08","total":4599,"items":[{"name":"Action Camera","category":"Electronics","qty":1,"price":4599}]},
+  {"id":1117,"customer_id":31,"date":"2025-08-30","total":1999,"items":[{"name":"Camera Stabilizer","category":"Electronics","qty":1,"price":1999}]},
+
+  {"id":1118,"customer_id":32,"date":"2025-05-10","total":3999,"items":[{"name":"Silk Bedding Set","category":"Home & Kitchen","qty":1,"price":3999}]},
+  {"id":1119,"customer_id":32,"date":"2025-08-22","total":2499,"items":[{"name":"Scented Candle Set","category":"Home & Kitchen","qty":1,"price":2499}]},
+  {"id":1120,"customer_id":32,"date":"2025-12-05","total":5999,"items":[{"name":"Smart Thermostat","category":"Home & Kitchen","qty":1,"price":5999}]},
+  {"id":1121,"customer_id":32,"date":"2026-03-10","total":1999,"items":[{"name":"Aromatherapy Diffuser","category":"Home & Kitchen","qty":1,"price":1999}]},
+
+  {"id":1122,"customer_id":33,"date":"2025-02-01","total":2999,"items":[{"name":"Desk Lamp Smart","category":"Furniture","qty":1,"price":2999}]},
+  {"id":1123,"customer_id":33,"date":"2025-05-18","total":1599,"items":[{"name":"Mousepad XL","category":"Accessories","qty":1,"price":1599}]},
+
+  {"id":1124,"customer_id":34,"date":"2024-12-10","total":4999,"items":[{"name":"Kitchen Robot","category":"Home & Kitchen","qty":1,"price":4999}]},
+  {"id":1125,"customer_id":34,"date":"2025-03-28","total":2999,"items":[{"name":"Food Processor","category":"Home & Kitchen","qty":1,"price":2999}]},
+  {"id":1126,"customer_id":34,"date":"2025-07-05","total":1999,"items":[{"name":"Electric Kettle","category":"Home & Kitchen","qty":1,"price":1999}]},
+
+  {"id":1127,"customer_id":35,"date":"2025-08-10","total":1299,"items":[{"name":"Portable Charger","category":"Electronics","qty":1,"price":1299}]},
+
+  {"id":1128,"customer_id":36,"date":"2025-04-05","total":7999,"items":[{"name":"Designer Dress","category":"Luxury Fashion","qty":1,"price":7999}]},
+  {"id":1129,"customer_id":36,"date":"2025-07-20","total":5999,"items":[{"name":"Gucci Bag","category":"Luxury Fashion","qty":1,"price":5999}]},
+  {"id":1130,"customer_id":36,"date":"2025-10-15","total":3599,"items":[{"name":"Designer Shoes","category":"Luxury Fashion","qty":1,"price":3599}]},
+  {"id":1131,"customer_id":36,"date":"2026-01-20","total":9999,"items":[{"name":"Versace Jacket","category":"Luxury Fashion","qty":1,"price":9999}]},
+  {"id":1132,"customer_id":36,"date":"2026-03-12","total":4499,"items":[{"name":"Designer Sunglasses","category":"Luxury Fashion","qty":1,"price":4499}]},
+
+  {"id":1133,"customer_id":37,"date":"2024-10-01","total":3999,"items":[{"name":"Tool Set Pro","category":"Hardware","qty":1,"price":3999}]},
+  {"id":1134,"customer_id":37,"date":"2025-01-10","total":2499,"items":[{"name":"Drill Kit","category":"Hardware","qty":1,"price":2499}]},
+  {"id":1135,"customer_id":37,"date":"2025-04-20","total":5999,"items":[{"name":"Table Saw","category":"Hardware","qty":1,"price":5999}]},
+
+  {"id":1136,"customer_id":38,"date":"2025-05-25","total":2999,"items":[{"name":"Art Supply Set","category":"Art & Craft","qty":1,"price":2999}]},
+  {"id":1137,"customer_id":38,"date":"2025-08-10","total":1599,"items":[{"name":"Canvas Pack","category":"Art & Craft","qty":5,"price":319}]},
+  {"id":1138,"customer_id":38,"date":"2025-11-20","total":4999,"items":[{"name":"Digital Drawing Tablet","category":"Art & Craft","qty":1,"price":4999}]},
+
+  {"id":1139,"customer_id":39,"date":"2025-01-05","total":8999,"items":[{"name":"Smart TV 65\"","category":"Electronics","qty":1,"price":8999}]},
+  {"id":1140,"customer_id":39,"date":"2025-04-15","total":2999,"items":[{"name":"Soundbar Premium","category":"Electronics","qty":1,"price":2999}]},
+  {"id":1141,"customer_id":39,"date":"2025-07-25","total":1599,"items":[{"name":"Universal Remote","category":"Electronics","qty":1,"price":1599}]},
+  {"id":1142,"customer_id":39,"date":"2025-11-08","total":4999,"items":[{"name":"Projector HD","category":"Electronics","qty":1,"price":4999}]},
+  {"id":1143,"customer_id":39,"date":"2026-02-18","total":3499,"items":[{"name":"Subwoofer","category":"Electronics","qty":1,"price":3499}]},
+
+  {"id":1144,"customer_id":40,"date":"2025-08-25","total":1999,"items":[{"name":"Gardening Set","category":"Home & Kitchen","qty":1,"price":1999}]},
+
+  {"id":1145,"customer_id":41,"date":"2025-03-05","total":2499,"items":[{"name":"Running Shoes","category":"Running Shoes","qty":1,"price":2499}]},
+  {"id":1146,"customer_id":41,"date":"2025-06-20","total":1899,"items":[{"name":"Training Top","category":"Sports Apparel","qty":1,"price":1899}]},
+  {"id":1147,"customer_id":41,"date":"2025-09-15","total":3299,"items":[{"name":"Trail Shoes","category":"Running Shoes","qty":1,"price":3299}]},
+  {"id":1148,"customer_id":41,"date":"2026-01-10","total":2999,"items":[{"name":"GPS Watch","category":"Sports Electronics","qty":1,"price":2999}]},
+
+  {"id":1149,"customer_id":42,"date":"2024-11-01","total":12999,"items":[{"name":"Premium Cookware","category":"Home & Kitchen","qty":1,"price":12999}]},
+  {"id":1150,"customer_id":42,"date":"2025-02-18","total":3999,"items":[{"name":"Wine Fridge","category":"Home & Kitchen","qty":1,"price":3999}]},
+  {"id":1151,"customer_id":42,"date":"2025-05-30","total":2499,"items":[{"name":"Cutlery Set Silver","category":"Home & Kitchen","qty":1,"price":2499}]},
+
+  {"id":1152,"customer_id":43,"date":"2025-07-08","total":1899,"items":[{"name":"Bluetooth Speaker","category":"Electronics","qty":1,"price":1899}]},
+  {"id":1153,"customer_id":43,"date":"2025-10-25","total":2999,"items":[{"name":"Turntable Vintage","category":"Electronics","qty":1,"price":2999}]},
+
+  {"id":1154,"customer_id":44,"date":"2025-04-22","total":3999,"items":[{"name":"Silk Saree","category":"Fashion","qty":1,"price":3999}]},
+  {"id":1155,"customer_id":44,"date":"2025-08-05","total":2499,"items":[{"name":"Kurti Set","category":"Fashion","qty":3,"price":833}]},
+  {"id":1156,"customer_id":44,"date":"2025-11-28","total":5999,"items":[{"name":"Bridal Lehenga","category":"Fashion","qty":1,"price":5999}]},
+  {"id":1157,"customer_id":44,"date":"2026-02-15","total":1999,"items":[{"name":"Jhumka Earrings Gold","category":"Fashion","qty":1,"price":1999}]},
+
+  {"id":1158,"customer_id":45,"date":"2024-08-05","total":19999,"items":[{"name":"Complete Home Gym","category":"Fitness","qty":1,"price":19999}]},
+  {"id":1159,"customer_id":45,"date":"2024-11-25","total":3499,"items":[{"name":"Protein Powder Bundle","category":"Fitness","qty":1,"price":3499}]},
+  {"id":1160,"customer_id":45,"date":"2025-02-10","total":5999,"items":[{"name":"Rowing Machine","category":"Fitness","qty":1,"price":5999}]},
+  {"id":1161,"customer_id":45,"date":"2025-05-20","total":2999,"items":[{"name":"Weight Plates Set","category":"Fitness","qty":1,"price":2999}]},
+  {"id":1162,"customer_id":45,"date":"2025-08-15","total":1999,"items":[{"name":"Gym Bag Premium","category":"Fitness","qty":1,"price":1999}]},
+  {"id":1163,"customer_id":45,"date":"2025-11-30","total":7999,"items":[{"name":"Spin Bike","category":"Fitness","qty":1,"price":7999}]},
+  {"id":1164,"customer_id":45,"date":"2026-03-01","total":1499,"items":[{"name":"Shaker + Supplement","category":"Fitness","qty":1,"price":1499}]},
+
+  {"id":1165,"customer_id":46,"date":"2025-01-18","total":2999,"items":[{"name":"Board Games Set","category":"Toys & Games","qty":1,"price":2999}]},
+  {"id":1166,"customer_id":46,"date":"2025-04-30","total":1599,"items":[{"name":"Puzzle 3D","category":"Toys & Games","qty":2,"price":799}]},
+  {"id":1167,"customer_id":46,"date":"2025-08-12","total":4999,"items":[{"name":"LEGO Set Premium","category":"Toys & Games","qty":1,"price":4999}]},
+
+  {"id":1168,"customer_id":47,"date":"2025-09-15","total":1299,"items":[{"name":"Mouse Wireless","category":"Electronics","qty":1,"price":1299}]},
+
+  {"id":1169,"customer_id":48,"date":"2024-12-01","total":6999,"items":[{"name":"Stand Mixer Pro","category":"Home & Kitchen","qty":1,"price":6999}]},
+  {"id":1170,"customer_id":48,"date":"2025-03-15","total":2999,"items":[{"name":"Baking Set","category":"Home & Kitchen","qty":1,"price":2999}]},
+  {"id":1171,"customer_id":48,"date":"2025-06-25","total":1599,"items":[{"name":"Cake Decorating Kit","category":"Home & Kitchen","qty":1,"price":1599}]},
+  {"id":1172,"customer_id":48,"date":"2025-10-05","total":3999,"items":[{"name":"Oven Convection","category":"Home & Kitchen","qty":1,"price":3999}]},
+
+  {"id":1173,"customer_id":49,"date":"2025-06-15","total":2999,"items":[{"name":"Guitar Acoustic","category":"Musical Instruments","qty":1,"price":2999}]},
+  {"id":1174,"customer_id":49,"date":"2025-09-20","total":1599,"items":[{"name":"Capo + Strings Set","category":"Musical Instruments","qty":1,"price":1599}]},
+  {"id":1175,"customer_id":49,"date":"2026-01-08","total":4999,"items":[{"name":"Amp & Pedal Board","category":"Musical Instruments","qty":1,"price":4999}]},
+
+  {"id":1176,"customer_id":50,"date":"2025-08-01","total":3499,"items":[{"name":"Saree Collection","category":"Fashion","qty":3,"price":1166}]},
+  {"id":1177,"customer_id":50,"date":"2025-11-10","total":2499,"items":[{"name":"Ethnic Jewelry Set","category":"Fashion","qty":1,"price":2499}]},
+  {"id":1178,"customer_id":50,"date":"2026-02-20","total":1999,"items":[{"name":"Designer Dupatta","category":"Fashion","qty":1,"price":1999}]}
+]

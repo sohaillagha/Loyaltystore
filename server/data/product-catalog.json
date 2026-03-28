@@ -1,0 +1,38 @@
+[
+  { "id": 1, "name": "MacBook Air M3", "category": "Electronics", "price": 99990, "rating": 4.8, "image": "💻", "tag": "Bestseller" },
+  { "id": 2, "name": "AirPods Pro 2", "category": "Electronics", "price": 24900, "rating": 4.7, "image": "🎧", "tag": "Trending" },
+  { "id": 3, "name": "iPad Pro M4", "category": "Electronics", "price": 112900, "rating": 4.9, "image": "📱", "tag": "New" },
+  { "id": 4, "name": "Apple Watch Ultra", "category": "Electronics", "price": 89900, "rating": 4.6, "image": "⌚", "tag": "Premium" },
+  { "id": 5, "name": "Sony WH-1000XM5", "category": "Electronics", "price": 29990, "rating": 4.8, "image": "🎵", "tag": "Top Rated" },
+  { "id": 6, "name": "Samsung Galaxy S24", "category": "Electronics", "price": 79999, "rating": 4.5, "image": "📲", "tag": null },
+
+  { "id": 7, "name": "Nike Air Max 270", "category": "Fashion", "price": 12995, "rating": 4.4, "image": "👟", "tag": "Bestseller" },
+  { "id": 8, "name": "Levi's 501 Originals", "category": "Fashion", "price": 4999, "rating": 4.3, "image": "👖", "tag": null },
+  { "id": 9, "name": "Ray-Ban Aviator", "category": "Fashion", "price": 8990, "rating": 4.6, "image": "🕶️", "tag": "Classic" },
+  { "id": 10, "name": "Adidas Ultraboost", "category": "Fashion", "price": 16999, "rating": 4.7, "image": "🏃", "tag": "Trending" },
+  { "id": 11, "name": "Tommy Hilfiger Polo", "category": "Fashion", "price": 5999, "rating": 4.2, "image": "👔", "tag": null },
+
+  { "id": 12, "name": "Logitech G Pro X", "category": "Gaming", "price": 12995, "rating": 4.8, "image": "🎮", "tag": "Bestseller" },
+  { "id": 13, "name": "Razer DeathAdder V3", "category": "Gaming", "price": 6999, "rating": 4.7, "image": "🖱️", "tag": "Top Rated" },
+  { "id": 14, "name": "HyperX Cloud III", "category": "Gaming", "price": 9999, "rating": 4.5, "image": "🎧", "tag": null },
+  { "id": 15, "name": "SteelSeries Apex Pro", "category": "Gaming", "price": 24999, "rating": 4.6, "image": "⌨️", "tag": "Premium" },
+  { "id": 16, "name": "ASUS ROG Swift Monitor", "category": "Gaming", "price": 54999, "rating": 4.8, "image": "🖥️", "tag": "New" },
+
+  { "id": 17, "name": "Dyson V15 Detect", "category": "Home", "price": 62900, "rating": 4.7, "image": "🧹", "tag": "Premium" },
+  { "id": 18, "name": "Instant Pot Duo", "category": "Home", "price": 8999, "rating": 4.6, "image": "🍲", "tag": "Bestseller" },
+  { "id": 19, "name": "Philips Air Fryer XXL", "category": "Home", "price": 14999, "rating": 4.5, "image": "🍟", "tag": "Trending" },
+  { "id": 20, "name": "iRobot Roomba i7", "category": "Home", "price": 49999, "rating": 4.4, "image": "🤖", "tag": null },
+
+  { "id": 21, "name": "Forest Essentials Serum", "category": "Beauty", "price": 3450, "rating": 4.5, "image": "✨", "tag": "Luxury" },
+  { "id": 22, "name": "Clinique Moisturizer", "category": "Beauty", "price": 4200, "rating": 4.6, "image": "🧴", "tag": "Bestseller" },
+  { "id": 23, "name": "SK-II Facial Treatment", "category": "Beauty", "price": 15900, "rating": 4.8, "image": "💎", "tag": "Premium" },
+  { "id": 24, "name": "The Ordinary Niacinamide", "category": "Beauty", "price": 590, "rating": 4.7, "image": "🧪", "tag": "Top Rated" },
+
+  { "id": 25, "name": "Asics Gel-Kayano 30", "category": "Sports", "price": 15999, "rating": 4.7, "image": "🏃", "tag": "Bestseller" },
+  { "id": 26, "name": "Fitbit Charge 6", "category": "Sports", "price": 14999, "rating": 4.4, "image": "📟", "tag": "New" },
+  { "id": 27, "name": "Yoga Mat Premium", "category": "Sports", "price": 2999, "rating": 4.3, "image": "🧘", "tag": null },
+  { "id": 28, "name": "Whey Protein 2kg", "category": "Sports", "price": 4999, "rating": 4.5, "image": "💪", "tag": "Trending" },
+
+  { "id": 29, "name": "Kindle Paperwhite", "category": "Other", "price": 14999, "rating": 4.8, "image": "📚", "tag": "Bestseller" },
+  { "id": 30, "name": "JBL Flip 6 Speaker", "category": "Other", "price": 9999, "rating": 4.6, "image": "🔊", "tag": "Trending" }
+]

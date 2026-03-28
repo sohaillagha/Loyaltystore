@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: shopcrm
+    runtime: node
+    buildCommand: cd client && npm install && npm run build && cd ../server && npm install
+    startCommand: cd server && node server.js
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: AUTO_SYNC
+        value: "true"
+      - key: NODE_ENV
+        value: production

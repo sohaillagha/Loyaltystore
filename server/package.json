@@ -1,0 +1,17 @@
+{
+  "name": "loyalty-crm-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "sync": "node -e \"import('./services/syncService.js').then(m => m.runSync())\""
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.21.0",
+    "@google/generative-ai": "^0.21.0"
+  }
+}
